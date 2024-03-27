@@ -26,30 +26,30 @@ const TopPerformers = () => {
 
   // Your code to fetch top performers data goes here
   const topPerformersData = [
-    { rank: 1, name: "Anushree Shukla", bugScore: 50, photo: second },
+    { rank: 1, name: "S.K Shivam", bugScore: 74, photo: sixth },
     {
       rank: 2,
-      name: "Kartik Patil",
-      bugScore: 49,
-      photo: fourth,
-    },
-    {
-      rank: 3,
-      name: "Mrunali Chalke",
-      bugScore: 48,
-      photo: first,
-    },
-    {
-      rank: 4,
       name: "Vishnu Menon",
-      bugScore: 45,
+      bugScore: 73,
       photo: third,
     },
     {
-      rank: 5,
+      rank: 3,
       name: "Anagha Shinde",
-      bugScore: 38,
+      bugScore: 64,
       photo: fifth,
+    },
+    {
+      rank: 4,
+      name: "Anushree Shukla",
+      bugScore: 64,
+      photo: second,
+    },
+    {
+      rank: 5,
+      name: "Kartik Patil",
+      bugScore: 38,
+      photo: fourth,
     },
   ];
   // const backgroundImage = "url('home-background-biweekly.jpeg')";
