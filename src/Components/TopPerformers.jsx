@@ -35,20 +35,20 @@ const TopPerformers = () => {
     },
     {
       rank: 3,
-      name: "Anagha Shinde",
-      bugScore: 64,
-      photo: fifth,
-    },
-    {
-      rank: 4,
       name: "Anushree Shukla",
       bugScore: 64,
       photo: second,
     },
     {
+      rank: 4,
+      name: "Anagha Shinde",
+      bugScore: 64,
+      photo: fifth,
+    },
+    {
       rank: 5,
       name: "Kartik Patil",
-      bugScore: 38,
+      bugScore: 57,
       photo: fourth,
     },
   ];
